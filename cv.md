@@ -13,5 +13,17 @@ I hope to gain knowledge in the field of front-end development and become a soug
 ## Skills
 ***
 - GitHab
-## Code Exampl
+## Code Example
 ***
+```
+console.log('Hello world')
+```
+## Experience
+***
+## Education
+***
+Graduated from the Belarusian State Technological University with a degree in “Fundamentals of Organic and Petrochemical Synthesis” this year.
+I have no experience in studying IT specialties. RS School is my first experience in studying IT and Front-end development.
+## Languages
+***
+My native language is Russian and Belarusian. My English level is between A1 and A2, I am going to improve it with the help of a tutor.
